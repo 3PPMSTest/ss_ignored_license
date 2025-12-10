@@ -1,0 +1,13 @@
+canonical-ha-cla-any-e-v1.2	Canonical-HA-CLA-ANY-E_v1.2	LicenseRef-scancode-canonical-ha-cla-any-e-v1.2
+canonical-ha-cla-any-i-v1.2	Canonical-HA-CLA-ANY-I_v1.2	LicenseRef-scancode-canonical-ha-cla-any-i-v1.2
+cncf-corporate-cla-1.0	CNCF Corporate CLA 1.0	LicenseRef-scancode-cncf-corporate-cla-1.0
+cncf-individual-cla-1.0	CNCF Individual CLA 1.0	LicenseRef-scancode-cncf-individual-cla-1.0
+dco-1.0	DCO 1.0	LicenseRef-scancode-dco-1.0
+dco-1.1	DCO 1.1	LicenseRef-scancode-dco-1.1
+djangosnippets-tos	Djangosnippets TOS	LicenseRef-scancode-djangosnippets-tos
+generic-cla	Generic CLA	LicenseRef-scancode-generic-cla
+google-cla	Google CLA	LicenseRef-scancode-google-cla
+google-corporate-cla	Google Corporate CLA	LicenseRef-scancode-google-corporate-cla
+ipca	IPCA	LicenseRef-scancode-ipca
+jetty-ccla-1.1	Jetty CCLA 1.1	LicenseRef-scancode-jetty-ccla-1.1
+ms-cla	MS Contribution License Agreement (CLA)	LicenseRef-scancode-ms-cla
